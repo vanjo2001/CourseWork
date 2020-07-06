@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CourseWork/Check+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:CourseWork/Check+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:CourseWork/Product+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:CourseWork/Product+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:CourseWork.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
